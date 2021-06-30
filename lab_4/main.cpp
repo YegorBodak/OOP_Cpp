@@ -20,7 +20,7 @@
 #include <string>
 #include <clocale>
 #include <algorithm>
-#include "Sort.h"
+
 using namespace std;
 
 // Доступ до конкретного елемента
